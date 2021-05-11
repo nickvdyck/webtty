@@ -46,7 +46,7 @@
     "identity-obj-proxy": "3.0.0",
     "jest": "26.4.2",
     "jest-canvas-mock": "2.3.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "prettier": "2.1.2",
     "style-loader": "1.2.1",
     "ts-jest": "26.4.1",
